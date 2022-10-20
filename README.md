@@ -1,3 +1,8 @@
+# Data Structure and Algorithms
+
+
+
+
 <p align="center"> 
 <img height="100" src="https://www.pcr-online.biz/wp-content/uploads/faang-own-logo-660x330.jpg">
 </p>
@@ -104,15 +109,5 @@ not related to hard core competitive coding.
 
 ## [Important Links](https://github.com/neerazz/FAANG/blob/master/ImportantLinks.md#hacking-software-engineering-interviews)
 
-## How to contribute?
 
-1. Fork the repository
-2. Do the desired changes (add/delete/modify)
-3. Make a pull request
-
-## When to contribute?
-
-1. If there is no solution to a problem.
-2. If your solution is asymptotically faster than the one in the main branch.
-3. If your algorithm is of the same time complexity but with reduced code size it would be better to, comment out the
-   original solution and make a pull request with your solution.
+## Thanks to the Author : [Neeraj](https://github.com/neerazz)
